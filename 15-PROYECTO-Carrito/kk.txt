@@ -1,0 +1,7 @@
+Recuperar informacion del html -> array
+Colocar la informacion en el carril
+en el caso de que salgan duplicados eliminarlos
+tener en cuenta la cantidad pedida por el usuario
+eliminar el producto que no desee el usuario del carrito
+vaciar el carrito
+linea 35 tbody ir metiendo lo del carrito
